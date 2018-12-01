@@ -1,0 +1,61 @@
+body {
+    background-image: url(../images/treasure\ cave.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
+}
+
+#crystals {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    font-family: 'Uncial Antiqua', cursive;
+    font-size: 75px;
+    color: goldenrod;
+}
+h2{
+    font-family: 'Uncial Antiqua', cursive;
+}
+#rules-and-gems {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#rules {
+    border: 5px solid white;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Rakkas', cursive;
+    font-size: 15px;
+    color: aqua;
+    border-radius: 25px;
+    font-weight: bold;
+    border-right-width: 2px;
+    text-transform: uppercase;
+}
+#crystals {
+    border: 5px solid white;
+    height: 466px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    border-radius: 25px;
+    border-left-width: 2px;
+}
+#game-numbers {
+    text-align: center;
+}
+#random-number {
+    font-size: 100px;
+    bottom: 40px;
+    font-family: 'Uncial Antiqua', cursive;
+}
+#win-lose {
+    color: goldenrod;
+}
